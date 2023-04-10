@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| estoy haciendo una columna| 
+|aca va una cosa| aca va la otra|
+|oooo|aaaa|
