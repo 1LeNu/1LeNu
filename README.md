@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 |---------------|------------   |
 |aca va una cosa| aca va la otra|
 |oooo           |aaaa           |
+
+ "los alias que mas uso son 
+ ``bash sl ``
