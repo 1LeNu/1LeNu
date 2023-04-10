@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 | estoy haciendo una columna| 
 |aca va una cosa| aca va la otra|
-|oooo|aaaa|
+|oooo           |aaaa           |
