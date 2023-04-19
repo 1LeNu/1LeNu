@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Sobre Mi
+Soy un estudiante de desarrollo web con conocimientos basicos de HTML CSS y BOOTSTRAP, con especializacion en JavaScript y NodeJS. Me estoy envolviendo de lleno en este mundo para poder insertarme en el mundo profesional.
+Adicionalmente soy un melomano, aprendiendo a tocar el piano y un entusiasta del deporte.
+
+
 ### Comandos de la terminal
 
 | Comando       | Funcion                       | 
