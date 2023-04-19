@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Comandos de la terminal
+### Comandos de la terminal
 
 | Comando       | Funcion                       | 
 |---------------|------------                   |
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 |code           | abre el directorio en VS code |
 |alias x1='x123'| crear un alias para un comando|
 
+### Los alias que mas uso son 
 
- "los alias que mas uso son 
 |alias              |funcion                   |
 |-------------------|--------------------------|
 |``c="clear"``      |limpia la terminal        |
