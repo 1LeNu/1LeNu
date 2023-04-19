@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
  "los alias que mas uso son 
 |alias              |funcion                   |
+|-------------------|--------------------------|
 |``c="clear"``      |limpia la terminal        |
 |``gp='git push'``  |sube los cambios al remoto|
 |``ga='git add .'`` |sube los cambios al stage |
